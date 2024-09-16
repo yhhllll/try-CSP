@@ -5,9 +5,7 @@
 
 ## 1.2 C++程序设计基本语法
 
-（1） 顺序结构与分支结构
-
-    [1C++ 基础.pdf](https://github.com/yhhllll/try-CSP/blob/main/1.2.3%E6%95%B0%E7%BB%84.pdf)
+（1） 顺序结构与分支结构[1C++ 基础.pdf](https://github.com/yhhllll/try-CSP/blob/main/1.2.3%E6%95%B0%E7%BB%84.pdf)
     
 （2）循环
 
